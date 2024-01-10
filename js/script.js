@@ -1,0 +1,1 @@
+alert("Hello C11, welcome to JavaScript world");
